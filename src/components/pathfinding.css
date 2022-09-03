@@ -1,0 +1,10 @@
+.grid {
+    margin: 100px 0;
+}
+
+.dbutton {
+    border: 1px solid grey;
+    cursor: pointer;
+    margin-top: 35px;
+    padding: 5px;
+}
